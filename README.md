@@ -2,7 +2,7 @@
 <h3 align="center">A passionate college student pursuing B.E in AIML</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
-- 🔭 I’m currently working on **churn rate analysis for Internet Provider**
+- 🔭 I’m currently working on **Learning to build forecasting models using RNN**
 
 - 🌱 I’m currently learning **Deep Learning**
 
