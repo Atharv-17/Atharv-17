@@ -2,9 +2,9 @@
 <h3 align="center">A passionate college student pursuing B.E in AIML</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
-- 🔭 I’m currently working on **Learning to build forecasting models using RNN**
+- 🔭 I’m currently learning the **concepts on Gen AI and learning to work with LLMs**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently working with **Langchain for developing AI powered projects**
 
 - 💬 Ask me about **Ask me about AI algorithms, ML models, DSA techniques, or how to navigate the world of tech as a BE AIML student!**
 
@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/atharv ligade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv ligade" height="30" width="40" /></a>
 <a href="https://kaggle.com/atharv ligade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharv ligade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/code_atharv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code_atharv" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pseudo_code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pseudo_code/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pseudo_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pseudo_code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
